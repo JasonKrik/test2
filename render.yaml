@@ -18,4 +18,4 @@ services:
           property: connectionString
 databases:
   - name: db-db
-    plan: starter
+    plan: free
